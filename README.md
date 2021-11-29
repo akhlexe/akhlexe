@@ -3,7 +3,7 @@
 ![Backend developer](https://i.imgur.com/U3ZHGGO.png)
 
 Hi, i'm Exequiel from Argentina, and i enjoy building stuff. 
-I discovered programming with Python for pure joy and got inmersed in the Java wonderful world. Feel free to explore my repositories and hope you get ideas and inspiration.
+I discovered programming with Python for curiosity and pure fun and then got inmersed in the Java wonderful world. Feel free to explore my repositories and hope you get ideas and inspiration.
 
 Skills: Java / Spring / Python / HTML / CSS
 
