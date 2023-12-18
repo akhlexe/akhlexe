@@ -7,7 +7,7 @@ I discovered programming with Python for pure curiosity and fun, and then got in
 
 Skills: C# / .NET / Java / Spring / Python / Typescript
 
-- 🔭 I’m currently working on a dashboard implementation with Angular and .NET API. 
+- 🔭 I’m currently working on a microservices architecture model for learning purposes. 
 - 📫 How to reach me: exe.pine@gmail.com 
 
 
