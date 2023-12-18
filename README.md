@@ -1,4 +1,4 @@
-### Hi there 👋, Exequiel Piñero
+### Hi there 👋, 
 #### Backend developer
 ![Backend Software Developer](https://i.imgur.com/U3ZHGGO.png)
 
